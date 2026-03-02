@@ -1,16 +1,13 @@
-## Hi there 👋
+<!DOCTYPE css>
+<html>
+<body>
 
-<!--
-**marupie/marupie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="[https://files.catbox.moe/je1qvb.png]" alt="lotte" width: auto height: auto align: center>
 
-Here are some ideas to get you started:
+<p style="font-family:helvetica" text-align: center; >queen of larpington and woke city
+<p style="font-family:helvetica" text-align: center; >lesbian cupiorom. jrpg addict
+<p style="font-family:helvetica" text-align: center; >heavy inspiration is okay i don't do much here
+</body>
+</html>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
