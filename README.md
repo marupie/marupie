@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<img src="[https://files.catbox.moe/je1qvb.png]" alt="lotte" width: auto height: auto align: center>
+<img src="https://files.catbox.moe/je1qvb.png" alt="lotte" width: auto height: auto align: center>
 
 <p style="font-family:helvetica" text-align: center; >queen of larpington and woke city
 <p style="font-family:helvetica" text-align: center; >lesbian cupiorom. jrpg addict
